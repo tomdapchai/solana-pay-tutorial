@@ -27,7 +27,7 @@ type ErrorOutput = {
 function get(res: NextApiResponse<MakeTransactionGetResponse>) {
   res.status(200).json({
     label: "Shrimp factory",
-    icon: "🍤",
+    icon: "https://freesvg.org/img/1370962427.png",
   })
 }
 
