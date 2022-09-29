@@ -39,8 +39,8 @@ export default function Products({ submitTarget, enabled }: Props) {
           Checkout
         </button>
         <div>
-          Wanna try QR code?<a href="https://solana-pay-tomdapchai-hwq5xdiwg-tomdapchai.vercel.app/shop">Try it out</a> 
-          <div>Get bored with QR code? <a href="https://solana-pay-tomdapchai-hwq5xdiwg-tomdapchai.vercel.app/">Return here</a></div>
+          Wanna try QR code?<a href="http://localhost:3000/shop">Try it out</a> 
+          <div>Get bored with QR code? <a href="http://localhost:3000">Return here</a></div>
         </div>
       </div>
     </form>
